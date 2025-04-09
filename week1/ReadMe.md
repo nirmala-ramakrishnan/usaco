@@ -1,6 +1,7 @@
 This week we start with a problem that requires a solution performing Complete Search (or Brute Force). This means that you will need to consider all possible combinations of some variables to find the solution. 
 
-# 🐄 Farthest Pair of Points
+---
+# 🐄 Problem 1: Farthest Pair of Points
 
 In this challenge, you're given `n` points on a 2D plane. Your task is to find the **pair of points that are farthest apart**, and print both their coordinates and the distance between them.
 
@@ -44,8 +45,9 @@ Farthest points: (5, 2) and (0, 1)
 Squared distance: 26.0
 ```
 
+### Your Task
 Modify the starter code to get the output as shown above. 
 
 [USACO Problem Reference: https://usaco.guide/bronze/intro-complete?lang=java]
 
-
+---
