@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author nirmala.ramakrishnan
+ * @author 
  */
 
 // Print the square of the maximum Euclidean distance 
