@@ -2,7 +2,7 @@ package usaco;
 
 /**
  *
- * @author nirmala.ramakrishnan
+ * @author 
  */
 public class MilkPail
 {
