@@ -51,3 +51,11 @@ Modify the starter code to get the output as shown above.
 [USACO Problem Reference: https://usaco.guide/bronze/intro-complete?lang=java]
 
 ---
+
+# 🐄 Problem 2: Milk Pail
+
+USACO Problem Reference: https://usaco.org/index.php?page=viewproblem2&cpid=615
+
+### Your Task
+Submit your MilkPail.java 
+
